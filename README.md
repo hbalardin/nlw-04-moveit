@@ -50,7 +50,7 @@ A **NLW** é um evento online de uma semana, disponibilizado pela **RocketSeat**
 
 <!-- gifs -->
 <p align="center">
-  <img width="60%" alt="WebDemonstration" title="WebDemonstration" src="./github/webdemonstration.gif">
+  <img alt="WebDemonstration" title="WebDemonstration" src="./github/webdemonstration.gif">
 </p>
 
 ---
